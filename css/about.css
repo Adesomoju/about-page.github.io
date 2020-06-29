@@ -150,6 +150,7 @@ img.photo-size {
     font-size: 15px;
     line-height: 28px;
     color: #333333;
+    text-align: justify;
 }
 
 
@@ -257,6 +258,7 @@ img.photo-size {
     font-size: 14px;
     line-height: 31px;
     color: #2F2E2E;
+    text-align: justify;
 }
 
 
@@ -333,7 +335,7 @@ img.photo-size {
 
 @media only screen and (max-width: 800px) {
     .gren {
-        margin-left: 40px;
+        margin-left: 0px;
     }
     .dis-a {
         order: 2;
@@ -375,7 +377,7 @@ img.photo-size {
         font-size: 11px;
         line-height: 18px;
         color: #333333;
-        text-align: center;
+        text-align: justify;
     }
     .heading-text {
         font-size: 18px;
@@ -434,6 +436,7 @@ img.photo-size {
         font-size: 13px;
         line-height: 23px;
         color: #2F2E2E;
+        text-align: justify;
     }
     .total-foot {
         display: flex;
