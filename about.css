@@ -150,6 +150,7 @@ img.photo-size {
     font-size: 15px;
     line-height: 28px;
     color: #333333;
+    text-align: justify;
 }
 
 
@@ -208,7 +209,7 @@ img.photo-size {
     font-weight: 500;
     font-size: 30px;
     line-height: 48px;
-    text-align: center;
+    text-align: justify;
     color: #333333;
 }
 
@@ -375,7 +376,7 @@ img.photo-size {
         font-size: 11px;
         line-height: 18px;
         color: #333333;
-        text-align: center;
+        text-align: justify;
     }
     .heading-text {
         font-size: 18px;
@@ -418,6 +419,7 @@ img.photo-size {
         font-size: 17.47px;
         line-height: 26px;
         color: #333333;
+        text-align: justify;
     }
     .prof-content {
         margin-bottom: 45px;
